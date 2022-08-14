@@ -1,7 +1,7 @@
 displayName = Equipment Modifiers & Reforging
 author = Aitherix
-version = 1.0.9
+version = 1.1.1
 hideCode = true
 hideResources = true
 includeSource = false
-patchNotes = Stable release update & minor bug fixes.
+patchNotes = Fixes an issue with the version checker.
